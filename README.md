@@ -21,18 +21,18 @@ This project demonstrates practical expertise in data cleaning, data modeling, D
 
 **🛠 Tools & Technologies Used**
 
-*🔹 📗 Excel (Power Pivot)
+1.📗 Excel (Power Pivot)
       * Pivot Tables & Pivot Charts
       * Power Pivot Data Model
       * DAX Measures
       * Slicers
       * Structured Data Tables 
-*🔹 📊 Power BI
+2. 📊 Power BI
       * Power Query (Data Transformation)
       * Data Modeling & Relationships
       * DAX (Data Analysis Expressions)
       * KPI Cards & Interactive Visuals
-*🔹 📈 Tableau
+3. 📈 Tableau
       * Calculated Fields
       * Parameters
       * Dashboard Actions
